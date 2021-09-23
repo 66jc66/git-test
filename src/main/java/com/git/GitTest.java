@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("现在在另一个分支上进行操作");
         System.out.println("现在在原来开始分支上进行修改操作");
         System.out.println("现在在另一个分支上进行再一次修改操作");
+        System.out.println("进行push 测试");
     }
 }
